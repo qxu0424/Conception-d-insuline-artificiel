@@ -11,3 +11,11 @@ Analyzed the component with the highest error rate of the model and its importan
 - 该项目旨在设计一款拥有触摸显示屏，通过实时检测血糖指数自动注入胰岛素的智能人工胰岛素仪。 所测信息皆能通过蓝牙实时 传递给手机，或通过收发器远程数据传输给主治医生，使其能对病人状态实时监控。
 - 使用 MagicDraw（Cameo）建立产品高层框架，通过预设不同产品使用场景扩展产品必须满足的条件，完成黑箱解析；
 -  建立电子机械之间信息传递图，进行产品活动和性能分析。确定产品结构，完成白箱解析； 进行 FAT（Fault Tree Analysis）产品 可靠性分析，运用 AltaRica 将产品进行建模， 融入错误概率模型。 通过分析出错率提出迭代优化产品。
+
+
+# Version Fr
+Ce projet vise à concevoir un compteur d'insuline artificiel intelligent avec un écran tactile qui injecte automatiquement de l'insuline grâce à la détection en temps réel de l'indice de glycémie. Les informations mesurées peuvent être transmises au téléphone mobile en temps réel via Bluetooth, ou les données peuvent être transmises au médecin traitant via l'émetteur-récepteur, afin qu'il puisse surveiller l'état du patient en temps réel.
+
+- Utiliser MagicDraw (Cameo) pour établir un cadre de produit de haut niveau, étendre les conditions que le produit doit remplir en prédéfinissant différents scénarios d'utilisation du produit et effectuer une analyse complète de la boîte noire ; 
+
+- Établir des diagrammes de transfert d'informations entre les machines électroniques et mener l'activité du produit et analyse de performance. Déterminez la structure du produit et complétez l'analyse de la boîte blanche ; effectuez une analyse de la fiabilité du produit FAT (Fault Tree Analysis), utilisez AltaRica pour modéliser le produit et intégrez-le dans le modèle de probabilité d'erreur. Des produits d'optimisation itératifs sont proposés en analysant le taux d'erreur.
